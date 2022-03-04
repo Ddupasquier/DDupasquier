@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, SQL, Ruby, Rails, HTML, CSS, and probably more.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/dylan-dupasquier-1b686a71/**
+- 📫 How to reach me **https://www.linkedin.com/in/dylan-dupasquier/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
