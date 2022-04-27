@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddupasquier&label=Profile%20views&color=0e75b6&style=flat" alt="ddupasquier" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React, SQL, Ruby, Rails, HTML, CSS, and probably more.**
+- 🌱 I am a software engineer who is proficient in **Javascript, React, Ruby, Rails, HTML5, CSS, SCSS and probably more.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dylan-dupasquier/**
 
