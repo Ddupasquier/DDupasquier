@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddupasquier&label=Profile%20views&color=0e75b6&style=flat" alt="ddupasquier" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React.js, SQL, Ruby on Rails, HTML, CSS, SCSS, and probably more.**
+Proficient with Js, React.js, Svelte, HTML, SCSS/Sass, and a number of other front end tool.
+- 🌱 I’m currently learning **Ruby on Rails, and probably more.**
 
 - 👨‍💻 Some of my projects are available to view at [dupasquier.dev](dupasquier.dev)
 
