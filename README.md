@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddupasquier&label=Profile%20views&color=0e75b6&style=flat" alt="ddupasquier" /> </p>
 
 Proficient with Js, React.js, Svelte, HTML, SCSS/Sass, and a number of other front end tools.
+
 I thoroughly enjoy creating SVG animations and intend to branch out to 3D animations any day now!
 If you wish to see some of the SVG animations I've made then feel free to visit my Codepen! - https://codepen.io/ddupasquier
 
