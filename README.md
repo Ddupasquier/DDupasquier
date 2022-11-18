@@ -5,11 +5,11 @@
 
 Proficient with Js, React.js, Svelte, HTML, SCSS/Sass, and a number of other front end tools.
 I thoroughly enjoy creating SVG animations and intend to branch out to 3D animations any day now!
-If you wish to see some of the SVG animations I've made then feel free to visit my Codepen!
-https://codepen.io/ddupasquier
+If you wish to see some of the SVG animations I've made then feel free to visit my Codepen! - https://codepen.io/ddupasquier
+
 - 🌱 I’m currently learning **Ruby on Rails, and probably more.**
 
-- 👨‍💻 Some of my projects are available to view at [https://www.dupasquier.dev](dupasquier.dev)
+- 👨‍💻 Some of my projects are available to view at https://dupasquier.dev
 
 - 📫 How to reach me **https://www.linkedin.com/in/dylan-dupasquier**
 
