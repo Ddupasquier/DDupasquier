@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddupasquier&label=Profile%20views&color=0e75b6&style=flat" alt="ddupasquier" /> </p>
 
-Proficient with Js, React.js, Svelte, HTML, SCSS/Sass, and a number of other front end tools.
+Proficient with JS, TS, React.js, Svelte, HTML, SCSS/Sass, RoR, and a number of other tools.
 
-I thoroughly enjoy creating SVG animations and intend to branch out to 3D animations any day now!
-If you wish to see some of the SVG animations I've made then feel free to visit my Codepen! - https://codepen.io/ddupasquier
+I'm a hard working Full-Stack Dev (Front-End leaning) who loves making fun animations and radical UIs. My main front end tool is SvelteKit. I love the simplicity and its amazing capability to highlight and improve upon the shortcomings of React.js. I'm actively interviewing and looking for work, so if you think I could be a good fit please don't hesitate to reach out! :)
 
-- 🌱 I’m currently learning **Ruby on Rails, and probably more.**
+- 🌱 I’m currently learning **Python, and actively improving my TS skills**
 
-- 👨‍💻 Some of my projects are available to view at https://dupasquier.dev
+- 👨‍💻 Some of my projects are available to view at https://dupasquier.dev OR in this very github.
 
 - 📫 How to reach me **https://www.linkedin.com/in/dylan-dupasquier**
 
