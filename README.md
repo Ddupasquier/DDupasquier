@@ -5,9 +5,9 @@
 
 Proficient with JS, TS, React.js, Svelte, HTML, SCSS/Sass, RoR, and a number of other tools.
 
-I'm a hard working Full-Stack Dev (Front-End leaning) who loves making fun animations and radical UIs. My main front end tool is SvelteKit. I love the simplicity and its amazing capability to highlight and improve upon the shortcomings of React.js. I'm actively interviewing and looking for work, so if you think I could be a good fit please don't hesitate to reach out! :)
+I'm a hard working Full-Stack Dev (Front-End leaning) who loves making fun animations and radical UIs. My front end framework of choice is SvelteKit. I love the simplicity and its amazing capability to highlight and improve upon the shortcomings of React.js.
 
-- 🌱 I’m currently learning **Python, and actively improving my TS skills**
+- 🌱 I’m currently learning **Angular, C#, and ASP.NET**
 
 - 👨‍💻 Some of my projects are available to view at https://dupasquier.dev OR in this very github.
 
