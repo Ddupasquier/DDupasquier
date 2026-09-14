@@ -1,37 +1,115 @@
-<h1 align="center">Hi all! I'm Dylan!</h1>
-I like to code for fun. That's about the thick and thin of it. Available for freelance and other opportunities.
+<h1 align="center">Hey, I'm Dylan 👋</h1>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dylandupasquier"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@dylan-dupasquier" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddupasquier&show_icons=true&locale=en&layout=compact" alt="ddupasquier" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddupasquier&label=Profile%20views&color=0e75b6&style=flat" alt="ddupasquier" /> </p>
-
-<!-- <h1 align="center">Hey there 👋 I'm Dylan!</h1>
-<h3 align="center">Full-Stack Software Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddupasquier&label=Profile%20views&color=0e75b6&style=flat" alt="ddupasquier" /> </p>
-
-Proficient with JS, TS, React.js, Svelte, HTML, SCSS/Sass, RoR, and a number of other tools.
-
-I'm a hard working Full-Stack Dev (Front-End leaning) who loves making fun animations and radical UIs. My front end framework of choice is SvelteKit. I love the simplicity and its amazing capability to highlight and improve upon the shortcomings of React.js.
-
-- 🌱 I’m currently learning **Angular, C#, and ASP.NET**
-
-- 👨‍💻 Some of my projects are available to view at https://dupasquier.dev OR in this very github.
-
-- 📫 How to reach me **https://www.linkedin.com/in/dylan-dupasquier**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dylan-dupasquier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan dupasquier" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full-stack developer · Product builder · Occasional toolmaker</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build software because I genuinely enjoy building software.
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dylandupasquier"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@dylan-dupasquier" /></a></p><br><br>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddupasquier&show_icons=true&locale=en&layout=compact" alt="ddupasquier" /></p> -->
+### About me
+
+I'm a full-stack developer based in Portland, Oregon, with a strong preference for taking ideas all the way from **"wouldn't it be cool if..."** to working software.
+
+Most of my current work lives around **TypeScript, SvelteKit, Node.js, PostgreSQL, Supabase, and Docker**, but I'm much more interested in solving the problem well than being loyal to a particular stack.
+
+I tend to work across the entire application:
+
+- Product and UI/UX
+- Frontend architecture
+- APIs and backend services
+- Database design and migrations
+- Authentication and security
+- Testing and automation
+- CI/CD and deployment
+- Developer tooling
+
+Increasingly, I'm also interested in identifying infrastructure and tooling that shouldn't be trapped inside a single application — and turning those pieces into reusable packages.
+
+### What I'm building
+
+#### 🥤 BlendCalc
+
+A mobile-first web application for building and analyzing blended drinks.
+
+BlendCalc combines nutrition data, product lookup, ingredient management, image/text processing, and recipe tooling into something designed to make nutritional information useful rather than just display it.
+
+Built primarily with **SvelteKit, TypeScript, Supabase/PostgreSQL, and SCSS**.
+
+#### 🧪 Rehearsal
+
+Developer tooling for making database changes considerably less terrifying.
+
+Rehearsal grew out of infrastructure I built while developing BlendCalc. It creates an isolated environment where migrations and database changes can be tested against a sanitized, reproducible representation of a real database before those changes get anywhere near production.
+
+The goal is to turn that architecture into a reusable npm package rather than leave it buried inside one application.
+
+> If infrastructure can fail safely before production, it probably should.
+
+### How I like to build
+
+I like systems that are:
+
+**Simple where they can be.  
+Strict where they need to be.  
+Automated where humans are likely to screw them up.**
+
+I'm particularly interested in good developer experience, reducing unnecessary complexity, strong environment isolation, reliable testing, and tooling that makes the safe path the easy path.
+
+### Current toolbox
+
+**Primary**
+
+`TypeScript` · `JavaScript` · `SvelteKit` · `Node.js` · `PostgreSQL` · `Supabase` · `SCSS` · `Docker`
+
+**Also worked extensively with**
+
+`Angular` · `React` · `C#` · `ASP.NET Core` · `EF Core` · `SQL Server`
+
+**Tooling**
+
+`Git` · `GitHub Actions` · `npm` · `VS Code` · `Postman` · `Linux/macOS`
+
+---
+
+### Elsewhere
+
+🌐 **Website:** [dupasquier.dev](https://dupasquier.dev)
+
+💼 **LinkedIn:** [linkedin.com/in/dylan-dupasquier](https://www.linkedin.com/in/dylan-dupasquier)
+
+I'm open to interesting freelance work, collaboration, and software opportunities.
+
+---
+
+### GitHub
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ddupasquier&show_icons=true&locale=en&layout=compact"
+    alt="Dylan's most used languages"
+  />
+</p>
+
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=ddupasquier&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
+
+### Support
+
+If something I've built has been useful to you and you'd like to support the work:
+
+<a href="https://www.buymeacoffee.com/dylandupasquier">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    height="50"
+    width="210"
+    alt="Buy me a coffee"
+  />
+</a>
